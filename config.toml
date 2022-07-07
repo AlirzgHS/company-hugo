@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/AlirzgHS/company-hugo.git'
+relativeURLs = "true"
+languageCode = 'ar'
+title = 'شركة تقنية'
